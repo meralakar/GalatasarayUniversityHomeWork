@@ -1,0 +1,9 @@
+{
+	"name": "Makar",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a12f90c-6655-4a5a-b637-e0424fef1981",
+		"tenantId": "6f3c77c3-965f-4e11-8846-de7700145aef"
+	}
+}
